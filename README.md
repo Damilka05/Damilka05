@@ -2,4 +2,4 @@
 
 ## I'm a Damil ##
 
-### I'm studdent of **SPbPU** ###
+### I'm studdent of *SPbPU* ###
