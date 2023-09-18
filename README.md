@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-## I'm a Damil ##
+## I'm a Damil Rashidovich ##
 
 ### I'm studdent of *SPbPU* ###
