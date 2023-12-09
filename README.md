@@ -7,6 +7,4 @@
 
 ### &#9997; My VK: https://vk.com/damil.amrenov ###
 
-![Image alt](https://github.com/Damilka05/inf/blob/main/Безымянный.png)
-
-<img src="https://github.com/Damilka05/inf/blob/main/Безымянный.png" width="200" height="50"/>
+![sss](https://github.com/Damilka05/inf/blob/main/Безымянный.png)
