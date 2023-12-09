@@ -7,4 +7,4 @@
 
 ### &#9997; My VK: https://vk.com/damil.amrenov ###
 
-<img src="resources/Безымянный.png" width="200" height="50"/>
+<img src="Damilka05/inf/blob/main/Безымянный.png" width="200" height="50"/>
